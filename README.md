@@ -1,4 +1,4 @@
 # Temperature-Conversion
-This application ses conversion constructors and operators to convert temperature units Kelvin,
+This application uses conversion constructors and operators to convert temperature units of Kelvin,
 Celsius and Fahrenheit
 
