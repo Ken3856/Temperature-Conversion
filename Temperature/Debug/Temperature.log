@@ -1,0 +1,3 @@
+﻿  TEMP3.cpp
+C:\Users\kenjo\DT008_Year 3\Software Design 2\Lab 5 Temperature\Temperature\Temperature\TEMP3.cpp(175,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Temperature.vcxproj -> C:\Users\kenjo\DT008_Year 3\Software Design 2\Lab 5 Temperature\Temperature\Debug\Temperature.exe
